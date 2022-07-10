@@ -14,3 +14,17 @@ body div#firstLevelTextId p {
   background-color: red;
   margin-top: 0;
 }
+.gotoAbout {
+  background-color: aquamarine;
+  padding: 10px;
+  display: block ;
+  width: fit-content;
+  border-radius: 5px 10px ;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+.gotoAbout:hover{
+  box-shadow: #0000005e 5px 5px 10px 0px;
+}
+
