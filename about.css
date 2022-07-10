@@ -1,0 +1,9 @@
+.headbar {
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #e5e5e5;
+    height: 40px;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
